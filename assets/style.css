@@ -18064,3 +18064,13 @@ label.checkbox {
 .side-header #logo img {
   height: auto !important;
 }
+
+#content h2 {
+  /* margin-top: 2em; */
+  padding: 1em;
+}
+
+#descpicable img {
+  margin: 3em;
+  width: 50%;
+}
