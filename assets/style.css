@@ -18064,25 +18064,8 @@ label.checkbox {
     font-size: 1em;
 }
 
-.reviews {
-  /* border: 1px solid; */
-  padding: 1em;
-}
-
-.reviews p {
-  margin: 10px;
-}
-
 .side-header #logo img {
   height: auto !important;
 }
 
-#content h2 {
-  /* margin-top: 2em; */
-  padding: 1em;
-}
 
-#descpicable img {
-  margin: 3em;
-  width: 50%;
-}
